@@ -8,7 +8,12 @@
 ```
 wget https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
 ```
-2.在上网登录网页注销登录，然后执行
+2.
+在上网登录网页注销登录! [http://172.30.255.42/](http://172.30.255.42/)
+在上网登录网页注销登录!
+在上网登录网页注销登录!
+
+然后执行
 ```
 bash install.sh
 ```
