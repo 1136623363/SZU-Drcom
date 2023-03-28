@@ -6,7 +6,7 @@
 ## 食用方法：
 1.SSH连接路由器，下载文件
 ```
-wget https://raw.githubusercontent.com/1136623363/SZUDrcom/main/drcom.sh
+wget https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
 ```
 2.在上网登录网页注销登录，然后执行
 ```
