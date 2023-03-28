@@ -1,6 +1,6 @@
 #!/bin/sh
-Username="391232"
-Password="1136623363"
+Username=""
+Password=""
 Date=$(date "+%Y-%m-%d %H:%M:%S")
 parentDir="/usr"
 fileName="drcom_log.txt"
