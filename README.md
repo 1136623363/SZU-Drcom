@@ -1,4 +1,4 @@
-# SZUDrcom
+# SZU-Drcom
 深圳大学校园网自动登录配置脚本
 
 适用于OpenWrt路由器
