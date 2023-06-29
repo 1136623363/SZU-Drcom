@@ -6,7 +6,7 @@
 ## 一键配置脚本食用方法：
 1.SSH连接路由器，下载文件
 ```
-wget https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
+wget https://raw.githubusercontent.com/1136623363/SZU-Drcom/main/install.sh
 ```
 2.
 在上网登录网页注销登录! [http://172.30.255.42/](http://172.30.255.42/)
@@ -19,7 +19,7 @@ bash install.sh
 ```
 ## 常见问题处理
 ```
-[root@OpenWrt:09:42 PM ~] # wget https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
+[root@OpenWrt:09:42 PM ~] # wget https://raw.githubusercontent.com/1136623363/SZU-Drcom/main/install.sh
 --2023-06-29 21:42:37--  https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
 Resolving raw.githubusercontent.com... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
 Connecting to raw.githubusercontent.com|185.199.108.133|:443... connected.
@@ -28,7 +28,7 @@ Unable to establish SSL connection.
 ```
 解决方法
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/1136623363/SZUDrcom/main/install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/1136623363/SZU-Drcom/main/install.sh
 ```
 
 
