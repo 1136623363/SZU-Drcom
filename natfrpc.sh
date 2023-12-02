@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 下载并重命名frpc客户端
-wget https://getfrp.sh/d/frpc_linux_armv7
+wget https://nya.globalslb.net/natfrp/client/launcher-unix/3.0.7/natfrp-service_linux_armv7.tar.zst
 mv frpc_linux_armv7 /sbin/natfrpc
 chmod a+wx /sbin/natfrpc
 
