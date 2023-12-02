@@ -16,7 +16,7 @@ start_service() {
     procd_open_instance natfrpc
     procd_set_param command /sbin/natfrpc
 
-    procd_append_param command -f p63xqglrhn7hc9iocgldacbb9mkincg7:3152 --update
+    procd_append_param command -f p63xqglrhn7hc9iocgldacbb9mkincg7:5259881 --update
  
     procd_set_param env LANG=zh_CN.UTF-8
     procd_set_param limits nofile="unlimited"
